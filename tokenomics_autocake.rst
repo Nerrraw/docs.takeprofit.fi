@@ -23,3 +23,11 @@ Liquidity charts:
 
 - https://poocoin.app/tokens/0xe2c95261bb990c1c9c4ba37cd86ee78e0feeccc5
 - https://www.dextools.io/app/pancakeswap/pair-explorer/0xe2c95261bb990c1c9c4ba37cd86ee78e0feeccc5
+
+AutoCake AirDrop
+==========================================================
+On `https://takeprofit.fi/autocake <https://takeprofit.fi/autocake>`_ site there is a button where you can claim AutoCake for free.
+
+AirDrop contract: `0xdDf4511257Bb1f4000a21B7942b046F43f816432 <https://bscscan.com/address/0xdDf4511257Bb1f4000a21B7942b046F43f816432>`_
+
+-

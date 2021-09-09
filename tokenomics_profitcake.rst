@@ -46,8 +46,7 @@ Tokenomics:
 - 10% Reserved for Partnership
 - 2% Marketing
 - 2% Team
-- 1% Burn
-
+- 1% Burn (`Proof of Burn <https://bscscan.com/tx/0x8df96dd784fa1ecd1381f2cf1aa092276a880d1b45897405db7c193a5824cf94>`_)
 ==========================================================
 
 `Contract address 0x44836677fbedecaf0e7ab32d6dd082ef539b5f92 <https://bscscan.com/address/0x44836677fbedecaf0e7ab32d6dd082ef539b5f92>`_

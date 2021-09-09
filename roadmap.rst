@@ -28,20 +28,23 @@
 - Medium articles started
 - Dashboard
 - ProfitCake release
+- Airdrop of Cake and AutoCake
 
 
 Ongoing
 ==========================================================
 
-- Airdrop of Cake and AutoCake
+- Updating Documentation
+- AutoCake -> ProfitCake Vault
 - Marketing
 
 Soon
 ==========================================================
 
-- ProfitCake Vaults
+- Marketing boost with Gleam
+- ProfitCake AirDrop
+- Whitepaper
 - Profit Vault
-- Marketing boost
 - Security audit
 
 

@@ -4,7 +4,13 @@
 
 In contrary to diversification of Cake these Vaults are used as incentive for improving liquidity of AutoCake and Profit and also to give various rewards for Profit holders.
 
-First Vaults supports Profit staking, BNB-AutoCake LP and Cake-AutoCake LP.
+Vaults supports Profit, AutoCake, BNB-AutoCake LP and Cake-AutoCake LP staking.
+
+Stake AutoCake earn ProfitCake
+==========================================================
+This Vault is holding 12.5% of ProfitCake supply and will be giving rewards for 25 days.
+
+https://bscscan.com/address/0xCd62a783319Ce38A5F4184F4c98A0A5aB41A147B
 
 Stake Profit earn AutoCake
 ==========================================================

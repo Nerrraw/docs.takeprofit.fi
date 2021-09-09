@@ -40,3 +40,4 @@ Discord: https://discord.gg/7Cu8MwMjWZ |br|
    tokenomics_profitcake
    tokenomics_autocake
    roadmap
+   howtobuy
