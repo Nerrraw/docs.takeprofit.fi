@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html >
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+      <title>🥞 CAKE Vaults v1 (retired)</title>
+    
+          <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+          <link rel="stylesheet" href="_static/theme.css " type="text/css" />
+      
+      <!-- sphinx script_files -->
+        <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+        <script src="_static/jquery.js"></script>
+        <script src="_static/underscore.js"></script>
+        <script src="_static/doctools.js"></script>
+
+      
+      <!-- bundled in js (rollup iife) -->
+      <!-- <script src="_static/theme-vendors.js"></script> -->
+      <script src="_static/theme.js" defer></script>
+    
+  <link rel="index" title="Index" href="genindex.html" />
+  <link rel="search" title="Search" href="search.html" />
+  <link rel="next" title="🥞 CAKE Vaults v2" href="vaults_v2.html" />
+  <link rel="prev" title="Introduction" href="index.html" /> 
+  </head>
+
+  <body>
+    <div id="app">
+    <div class="theme-container" :class="pageClasses"><navbar @toggle-sidebar="toggleSidebar">
+  <router-link to="index.html" class="home-link">
+    
+      <span class="site-name">TakeProfit Docs</span>
+    
+  </router-link>
+
+  <div class="links">
+    <navlinks class="can-hide">
+
+
+
+    </navlinks>
+  </div>
+</navbar>
+
+      
+      <div class="sidebar-mask" @click="toggleSidebar(false)">
+      </div>
+        <sidebar @toggle-sidebar="toggleSidebar">
+          
+          <navlinks>
+            
+
+
+
+            
+          </navlinks><div id="searchbox" class="searchbox" role="search">
+  <div class="caption"><span class="caption-text">Quick search</span>
+    <div class="searchformwrapper">
+      <form class="search" action="search.html" method="get">
+        <input type="text" name="q" />
+        <input type="submit" value="Search" />
+        <input type="hidden" name="check_keywords" value="yes" />
+        <input type="hidden" name="area" value="default" />
+      </form>
+    </div>
+  </div>
+</div><div class="sidebar-links" role="navigation" aria-label="main navigation">
+  
+    <div class="sidebar-group">
+      <p class="caption">
+        <span class="caption-text"><a href="index.html#contact-us">contact us</a></span>
+      </p>
+      <ul class="current">
+        
+          <li class="toctree-l1 current"><a href="#" class="reference internal current">🥞 CAKE Vaults v1 (retired)</a>
+
+            
+              <ul>
+                
+                  <li class="toctree-l2"><a href="#cake-busd" class="reference internal">CAKE/BUSD</a></li>
+                
+                  <li class="toctree-l2"><a href="#busd" class="reference internal">BUSD</a></li>
+                
+                  <li class="toctree-l2"><a href="#bnb" class="reference internal">BNB</a></li>
+                
+                  <li class="toctree-l2"><a href="#btc-eth" class="reference internal">BTC/ETH</a></li>
+                
+              </ul>
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="vaults_v2.html" class="reference internal ">🥞 CAKE Vaults v2</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="vault_profit.html" class="reference internal ">💰 Profit Vault</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="vaults_erc20.html" class="reference internal ">💰 BEP20 Vaults</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="tokenomics.html" class="reference internal ">📈 Tokenomics PROFIT</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="tokenomics_profitcake.html" class="reference internal ">✨ Tokenomics PROFITCAKE</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="tokenomics_autocake.html" class="reference internal ">🥮 Tokenomics AUTOCAKE</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="roadmap.html" class="reference internal ">🗺 Roadmap</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="howtobuy.html" class="reference internal ">🤑 How to Buy ProfitCake</a>
+
+            
+          </li>
+
+        
+      </ul>
+    </div>
+  
+</div>
+        </sidebar>
+
+      <page>
+          <div class="body-header" role="navigation" aria-label="navigation">
+  
+  <ul class="breadcrumbs">
+    <li><a href="index.html">Docs</a> &raquo;</li>
+    
+    <li>🥞 CAKE Vaults v1 (retired)</li>
+  </ul>
+  
+
+  <ul class="page-nav">
+  <li class="prev">
+    <a href="index.html"
+       title="previous chapter">← Introduction</a>
+  </li>
+  <li class="next">
+    <a href="vaults_v2.html"
+       title="next chapter">🥞 CAKE Vaults v2 →</a>
+  </li>
+</ul>
+  
+</div>
+<hr>
+          <div class="content" role="main" v-pre>
+            
+  <div class="section" id="cake-vaults-v1-retired">
+<h1>🥞 CAKE Vaults v1 (retired)<a class="headerlink" href="#cake-vaults-v1-retired" title="Permalink to this headline">¶</a></h1>
+<p>Rationale behind these vaults are to diversify portfolio, take profit and protect gains.
+CAKE earned in Vault is converted automatically to other coin or set of coins.</p>
+<p>We believe that in crypto it’s not about putting all eggs to one basket.
+For example it’s reasonable to put 50% to Vault giving out CAKE/BUSD, 25% of CAKE to Vault giving out BNB,
+and 25% to Vault giving out BTC/ETH.</p>
+<p>Vaults v1 have performance fee 1% that goes for takeprofit.fi development.</p>
+<p>Note: Currently Cake Swap has 0.25% fee for swapping which is paid for token conversion.</p>
+<div class="section" id="cake-busd">
+<h2>CAKE/BUSD<a class="headerlink" href="#cake-busd" title="Permalink to this headline">¶</a></h2>
+<p>Stake CAKE and earn gains 50% of CAKE and 50% of BUSD
+<a class="reference external" href="https://bscscan.com/address/0x6ca7e0d33ca64a3ea4a4e8d6920aad6419921884">https://bscscan.com/address/0x6ca7e0d33ca64a3ea4a4e8d6920aad6419921884</a></p>
+</div>
+<div class="section" id="busd">
+<h2>BUSD<a class="headerlink" href="#busd" title="Permalink to this headline">¶</a></h2>
+<p>Stake CAKE and earn all gains in BUSD
+<a class="reference external" href="https://bscscan.com/address/0x46d8287DEc52fe9187E743eE7Fe96FBb17bB20AA">https://bscscan.com/address/0x46d8287DEc52fe9187E743eE7Fe96FBb17bB20AA</a></p>
+</div>
+<div class="section" id="bnb">
+<h2>BNB<a class="headerlink" href="#bnb" title="Permalink to this headline">¶</a></h2>
+<p>Stake CAKE and earn all gains in BNB
+<a class="reference external" href="https://bscscan.com/address/0xfd994C4A7423FE7b09A76f3aEDda9722aDA6EC77">https://bscscan.com/address/0xfd994C4A7423FE7b09A76f3aEDda9722aDA6EC77</a></p>
+</div>
+<div class="section" id="btc-eth">
+<h2>BTC/ETH<a class="headerlink" href="#btc-eth" title="Permalink to this headline">¶</a></h2>
+<p>Stake CAKE and earn gains 50% of BTC and 50% of ETH
+<a class="reference external" href="https://bscscan.com/address/0x353a8055f6269D528B46aAc83BB4c88Ae65EC433">https://bscscan.com/address/0x353a8055f6269D528B46aAc83BB4c88Ae65EC433</a></p>
+</div>
+</div>
+
+
+          </div>
+          <div class="page-nav">
+            <div class="inner"><ul class="page-nav">
+  <li class="prev">
+    <a href="index.html"
+       title="previous chapter">← Introduction</a>
+  </li>
+  <li class="next">
+    <a href="vaults_v2.html"
+       title="next chapter">🥞 CAKE Vaults v2 →</a>
+  </li>
+</ul><div class="footer" role="contentinfo">
+      &#169; Copyright 2021.
+    <br>
+    Created using <a href="http://sphinx-doc.org/">Sphinx</a> 4.0.2 with <a href="https://github.com/schettino72/sphinx_press_theme">Press Theme</a> 0.7.3.
+</div>
+            </div>
+          </div>
+      </page>
+    </div></div>
+    
+    
+  </body>
+</html>
