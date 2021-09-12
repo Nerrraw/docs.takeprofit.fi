@@ -10,25 +10,30 @@
 ProfitCake Token
 ==========================================================
 
-ProfitCake is native token of Take Profit Finance
+ProfitCake is a native token of Take Profit Finance
 
-ProfitCake is a more modern token with many features suiting Take Profit DeFi.
-First of all it will put a life into Profit staking for tokens, a feature that was many times requested from our holders.
-ProfitCake will also be resilient to whales so our holders list will look much more healthy.
-Any impact from whales will be limited which means keeping the price reasonable.
+ProfitCake is a more diverse token with additional features created to function within the Take Profit DeFi.
+The additional reflection in Profit will boost profit staking as requested by our users.
+ProfitCake will also be resilient to whales increasing market stability.
 
 
 What is ProfitCake?
 ==========================================================
 
 ProfitCake is native token of Profit Token Finance and was created to supersede AutoCake.
-It will have unique features that will make it much better in it’s job.
-First of all it’s dividend paying token, but it will pay with both Cake and Profit!
+It will have unique features that we feel makes it objectively better.
+First of all, it’s a dividend paying token, holders of Profitcake will passively receive both Cake and Profit!
 
 Timeline:
 
-- Deployment to mainnet will be completed before 29th of August.
-- In the beginning it will be 18% fee token, which will be reduced in span of three months to 15% fee to match AutoCake.
+- Deployment to mainnet will be completed before August the 29th.
+- Initially the tax applied to transfers will be 18%, we plan to reduce this fee over the first 3 months of trading down to 15%.
+
+New features:
+
+- Profit Vault: Part of the fee will go into a Vault where Profit stakers will be able to claim rewards. This Vault will change given rewards every week and the community will have a voice on what token should be included in the Vault.
+- Auto Buyback and Burn: This portion of the fee will buy Profitcake and burn it to a dead address. This will be enabled for the first three months of operation.
+- Antiwhale: It will be impossible for a wallet to hold more than 1% of the supply, maximum buy limited is set to 0.5% and the maximum sell will be limited to 0.25% of Total Supply.
 
 New features:
 
@@ -46,7 +51,8 @@ Tokenomics:
 - 10% Reserved for Partnership
 - 2% Marketing
 - 2% Team
-- 1% Burn (`Proof of Burn <https://bscscan.com/tx/0x8df96dd784fa1ecd1381f2cf1aa092276a880d1b45897405db7c193a5824cf94>`_)
+- 1% Burn
+
 ==========================================================
 
 `Contract address 0x44836677fbedecaf0e7ab32d6dd082ef539b5f92 <https://bscscan.com/address/0x44836677fbedecaf0e7ab32d6dd082ef539b5f92>`_
