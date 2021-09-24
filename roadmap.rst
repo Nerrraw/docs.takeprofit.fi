@@ -6,28 +6,34 @@
 2Q 2021
 ==========================================================
 
-- CAKE staking Vault v1 to earn BUSD
-- CAKE staking Vault v1 to earn CAKE/BUSD
-- CAKE staking Vault v1 to earn WBNB
-- CAKE staking Vault v1 to earn BTC/ETH
-- Initial Marketing on Social Media - Twitter, Telegram
-- Initial Security Audit by TechRate
+.. raw:: html
+
+    <font color="green"><ul type="disc">
+    <li>CAKE staking Vault v1 to earn BUSD</li>
+    <li>CAKE staking Vault v1 to earn CAKE/BUSD</li>
+    <li>CAKE staking Vault v1 to earn WBNB</li>
+    <li>CAKE staking Vault v1 to earn BTC/ETH</li>
+    <li>Initial Marketing on Social Media - Twitter, Telegram</li>
+    <li>Initial Security Audit by TechRate</li></ul></font>
 
 3Q 2021
 ==========================================================
 
-- PROFIT token deploy on mainnet
-- Initial liquidity
-- CAKE staking Vault v2 to earn BUSD + PROFIT
-- CAKE staking Vault v2 to earn Multiple Tokens + PROFIT
-- AutoCake token released
-- Finish of alpha phase and beginning beta phase
-- Profit Vault
-- Graphic rebranding
-- AirDrop of Profit
-- Medium articles started
-- Dashboard
-- ProfitCake release
+.. raw:: html
+
+    <font color="green"><ul type="disc">
+    <li>PROFIT token deploy on mainnet</li>
+    <li>Initial liquidity</li>
+    <li>CAKE staking Vault v2 to earn BUSD + PROFIT</li>
+    <li>CAKE staking Vault v2 to earn Multiple Tokens + PROFIT</li>
+    <li>AutoCake token released</li>
+    <li>Finish of alpha phase and beginning beta phase</li>
+    <li>Profit Vault</li>
+    <li>Graphic rebranding</li>
+    <li>AirDrop of Profit</li>
+    <li>Medium articles started</li>
+    <li>Dashboard</li>
+    <li>ProfitCake release</li></ul></font>
 
 
 Ongoing

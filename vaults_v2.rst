@@ -22,7 +22,7 @@ Low Risk WBNB/ETH/BTC/ADA + PROFIT
 Stake CAKE and earn coins that long term have low risk + additional PROFIT
 https://bscscan.com/address/0x04fa577eC229f698a31AcbBE9FdAabFBc47b6070
 
-High Risk AUTOCAKE/SAFEMOON/BABYCAKE + PROFIT
+High Risk PROFITCAKE/SAFEMOON/FATCAKE/DOGE + PROFIT
 ==========================================================
 Stake CAKE and earn coins that in short term have high risk but also a potentially high return + additional PROFIT
 https://bscscan.com/address/0x2Cf6A533fA7e8dC2dfC2c50baC78aE5Aeb4029EE
